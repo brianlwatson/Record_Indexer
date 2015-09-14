@@ -1,0 +1,6 @@
+client
+client.communication
+server
+server.database
+shared.communication
+shared.model
